@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Hugh Zhou
-- 👀 I’m working at Able Sense
+- 👀 I’m a Shopify developer working at Able Sense

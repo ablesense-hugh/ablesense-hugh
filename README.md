@@ -4,6 +4,6 @@
     
 - :octocat: I am a front-end developer at [Able Sense](https://ablesense.com/)
     
-- 💬 Please reach me: 📧 [hugh@ablesense.com] 
+- 📧 Welcome to reach me out via my [email](hugh@ablesense.com) 
     
-- :office: Github account for work https://github.com/ablesense-hugh
+- :stars: [Personal Github account](https://github.com/Hughzhoutrt/)

@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/84819219/136729154-4acdd5a6-3c6c-4c22-a886-99e9c893c086.gif" alt="a waving hand to say hello" width="60px">  
+### Hi there <img src="https://user-images.githubusercontent.com/102388769/210440296-5cbc8103-fcbf-411b-b2ac-b47d30f5bc2c.gif" alt="a waving hand to say hello" width="60px">  
     
 - 😆 Hi, I am Hugh Zhou
     

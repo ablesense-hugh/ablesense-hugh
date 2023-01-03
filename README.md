@@ -2,7 +2,7 @@
     
 - 😆 Hi, I am Hugh Zhou
     
-- :octocat: I am a front-end developer at Able Sense and mainly work on the Shopify platform 
+- :octocat: I am a front-end developer at Able Sense
     
 - 💬 Please reach me: 📧 [hugh@ablesense.com] 
     

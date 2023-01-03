@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/102388769/210440296-5cbc8103-fcbf-411b-b2ac-b47d30f5bc2c.gif" alt="a waving puppy to say hello" width="60px">  
+### Welcome to my Github homepage <img src="https://user-images.githubusercontent.com/102388769/210440296-5cbc8103-fcbf-411b-b2ac-b47d30f5bc2c.gif" alt="a waving puppy to say hello" width="60px">  
     
 - 😆 Hi, I am Hugh Zhou
     

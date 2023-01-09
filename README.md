@@ -6,4 +6,4 @@
     
 - 📧 Welcome to reach me out via my email: hugh@ablesense.com
     
-- :stars: To understand more about me please visit my [Personal Github account](https://github.com/Hughzhoutrt/)
+- :stars: To know more about me please visit my [Personal Github account](https://github.com/Hughzhoutrt/)

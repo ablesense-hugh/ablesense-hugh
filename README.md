@@ -2,7 +2,7 @@
     
 - 😆 Hi, I am Hugh Zhou
     
-- :octocat: I am a front-end developer at [Able Sense](https://ablesense.com/)
+- :octocat: I am a developer at [Able Sense](https://ablesense.com/)
     
 - 📧 Welcome to reach me out via my email: hugh@ablesense.com
     

@@ -4,7 +4,7 @@
     
 - :octocat: I am a developer at [Able Sense](https://ablesense.com/)
     
-- 📧 Welcome to reach me out via my email: hugh@ablesense.com
+- 📧 Welcome to reach me out via my email: hugh.zhou@domaine.com
     
 - :stars: To know more about me please visit my [Personal Github account](https://github.com/halfhelix-hugh/)
         

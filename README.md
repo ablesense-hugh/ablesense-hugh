@@ -6,5 +6,5 @@
     
 - 📧 Welcome to reach me out via my email: hugh.zhou@domaine.com
     
-- :stars: To know more about me please visit my [Personal Github account](https://github.com/halfhelix-hugh/)
+- :stars: To know more about me please visit my [Domaine Github account](https://github.com/halfhelix-hugh/)
         
